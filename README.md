@@ -24,3 +24,5 @@ order of the vertices visited, in addition to any equivalent solutions that are
 found with the same length. Additionally, the program returns all other unique
 solutions found, their total distances and vertex orders. The value for attempts
 was methodically increased until no shorter solutions were found.
+
+A link to the diagram of the zoo is found here: https://i.ibb.co/F6c2VCp/Untitled.png
