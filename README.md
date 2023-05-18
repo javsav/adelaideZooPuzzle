@@ -1,6 +1,8 @@
 # adelaideZooPuzzle
 *NOTE - This can be run with https://dotnetfiddle.net if you don't have a C# compiler installed*
 
+Direct link to run: https://dotnetfiddle.net/9V36vq
+
 Pathfinding problem implementing grah theory
 
 This is a program that uses elements of graph theory to solve a puzzle
