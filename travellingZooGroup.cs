@@ -44,7 +44,7 @@ public class Program {
     maximum vertex visits.*/
     char entryVertex = 'D';   // Entry to the zoo is at vertex D.
     char exitVertex = 'F';    // Exit from the zoo is at vertex F.
-    int attempts = 1000000;   // Number of attempts (brute-force algorithm).
+    int attempts = 2000000;   // Number of attempts (brute-force algorithm).
     int maxVertexVisits = 2;  // Don't visit any vertex more than twice.
 
     // Initialise Zoo Graph by setting up the vertices and edges.
